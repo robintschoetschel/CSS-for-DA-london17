@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages v2
 
 You can use the [editor on GitHub](https://github.com/robintschoetschel/CSS-for-DA-london17/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
