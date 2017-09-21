@@ -1,12 +1,15 @@
 ---
 title: "Quantitative Tools for Qualitative Analysis: Computational Social Science meets Discourse Analysis"
 page_menu: |
+    A workshop at the <a href="http://symposium.computationalsocialscience.eu/" style="font-weight: normal;">European Symposium Series on Societal Challenges in Computational Social Science</a>  
+    London, 2017
+
     [Workshop Content](#workshop-content)  
     [Activities and Timeline](#activities-and-timeline)  
     [Selection of Submissions](#selection-of-submissions)  
     [Contact and Organising Committee](#contact-and-organising-committee)  
 
-    Please use <cssfordal17@gmail.com> for all questions and inquiries concerning the workshop
+    Please use <cssfordal17@gmail.com> for all questions and inquiries concerning the workshop. Deadline for submissions: 22 October, 2017.
 ---
 
 Over the course of this full-day workshop, we aim to facilitate an in-depth debate about the potentials and pitfalls of Computational Social Science-assisted text analysis (CSS) methods for research projects informed by Discourse Analysis (DA). Discourse Analysis is a broad and inclusive approach that stretches across disciplinary boundaries within the social sciences and humanities, and that can take various appearances. All its versions and sub-traditions are united, however, by a concern with how the way we talk about the world around us involves the construction of positions of power, inequalities, and social norms that privilege some standards and practices as normal, while demoting others to a deviant status. 
@@ -37,12 +40,12 @@ The workshop will be organised in four short sessions dedicated to each of the t
 16:30 | Final Plenary - How to (not) embrace CSS and learn from DA  (1 hour)
 
 ## Selection of Submissions
-Scholars from all fields of study and disciplines with an interest in CSS and DA are welcome to submit a one-page extended abstract of their talk and written contribution. The latter can be existing (published or unpublished work), and should serve as additional background reading for interested participants. The abstract should indicate which of the four themes the talk is intended to fall into, and how it addresses extant debates in the CSS or DA-related literature. It should also include a brief statement about the connection between the talk and the written contribution. 
+Scholars from all fields of study and disciplines with an interest in CSS and DA are welcome to submit an extended abstract (approx. 750 words) of their talk and written contribution. The latter can be existing work (published or unpublished) or prepared for the occasion, and should serve as additional background reading for interested participants. The abstract should indicate which of the four themes the talk is intended to fall into, and how it addresses extant debates in the CSS or DA-related literature. It should also include a brief statement about the connection between the talk and the written contribution. Deadline for submissions: 22 October, 2017.
 
-The organising committee will select contributions based on their fit with the overall topic of the workshop and the specific theme of the session. In the selection process, the committee aims, above all, to create the basis for a multi-faceted and nuanced debate, and apart from the subject matter of the contribution, the disciplinary background, area of research, and experience of the participant play a role. The aim is to draw a diverse crowd of computer scientists, data specialists, linguists, social scientists working with discourse analysis, and digital humanities scholars, in order to create a debate that does not get bogged down in subtle nuances of discourse theory or the technicalities of a particular algorithm, but which discusses the meeting of DA and CSS at an appropriately profound and abstract level. We furthermore believe it to be self-evident that a diverse crowd entails more than a trans-disciplinary membership, but also implies geographical diversity and diversity regarding gender, race, seniority, employment,…
+The organising committee will select contributions based on their fit with the overall topic of the workshop and the specific theme of the session. In the selection process, the committee aims, above all, to create the basis for a multi-faceted and nuanced debate, and apart from the subject matter of the contribution, the disciplinary background, area of research, and experience of the participant play a role. The aim is to draw a diverse crowd of computer scientists, data specialists, linguists, social scientists working with discourse analysis, and digital humanities scholars, in order to create a debate that does not get bogged down in subtle nuances of discourse theory or the technicalities of a particular algorithm, but which discusses the meeting of DA and CSS at an appropriately profound and abstract level. We furthermore believe it to be self-evident that a diverse crowd entails more than a trans-disciplinary membership, but also implies geographical diversity and diversity regarding gender, race, seniority, employment, …
 
 ## Contact and Organising Committee
-Please use <cssfordal17@gmail.com> for all questions and inquiries concerning the workshop
+Please use <cssfordal17@gmail.com> for all questions and inquiries concerning the workshop.
 
 Robin Tschötschel
 Amsterdam School of Communication Research, University of Amsterdam, Amsterdam, The Netherlands
