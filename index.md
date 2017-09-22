@@ -2,7 +2,7 @@
 title: "Quantitative Tools for Qualitative Analysis: Computational Social Science meets Discourse Analysis"
 page_menu: |
     A workshop at the <a href="http://symposium.computationalsocialscience.eu/" style="font-weight: normal;">European Symposium Series on Societal Challenges in Computational Social Science</a>  
-    London, 2017
+    London, November 15, 2017
 
     [Workshop Content](#workshop-content)  
     [Activities and Timeline](#activities-and-timeline)  
